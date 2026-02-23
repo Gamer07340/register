@@ -7,8 +7,7 @@
         "CNAME": "denaro.mine.bz",
         "MX": ["10 mail.gamer000gaming.is-a.dev"],
         "TXT": ["v=spf1 mx ~all"],
-        "mail": {
-            "CNAME": "denaro.mine.bz"
+        "mail.CNAME": "denaro.mine.bz"
         }
     }
 }
