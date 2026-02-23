@@ -8,6 +8,5 @@
         "MX": ["10 mail.gamer000gaming.is-a.dev"],
         "TXT": ["v=spf1 mx ~all"],
         "mail.CNAME": "denaro.mine.bz"
-        }
     }
 }
