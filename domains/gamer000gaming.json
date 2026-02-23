@@ -2,11 +2,13 @@
     "owner": {
         "username": "Gamer07340",
         "email": "gamer07340@gmail.com"
-    },
-    "records": {
-        "CNAME": "denaro.mine.bz",
-        "MX": ["10 mail.gamer000gaming.is-a.dev"],
-        "TXT": ["v=spf1 mx ~all"],
-        "mail.CNAME": "denaro.mine.bz"
     }
+  "records": {
+    "MX": [
+      { "target": "denaro.mine.bz", "priority": 10 }
+    ],
+    "TXT": [
+      "v=spf1 mx ~all"
+    ]
+  }
 }
